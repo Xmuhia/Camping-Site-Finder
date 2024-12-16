@@ -12,7 +12,7 @@ const Register = () => {
     return (
         <>
             <HeaderOne />
-            <Breadcrumb img='/images/breadcrumb/1920x320.png' heading='Register' subHeading="Access Your Account. GlampHub's Secure Register Experience." />
+            <Breadcrumb img='/images/breadcrumb/1920x320.png' heading='Register' subHeading="Access Your Account. CampSpots' Secure Register Experience." />
             <div className='login-us lg:py-20 md:py-14 py-10'>
                 <div className="container">
                     <div className="content flex items-center justify-center">

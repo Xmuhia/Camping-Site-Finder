@@ -37,7 +37,7 @@ const BlogGrid = () => {
         <>
             <div className='overflow-hidden'>
                 <HeaderOne />
-                <Breadcrumb img='/images/breadcrumb/1920x320.png' heading='Blog Grid' subHeading="Dive Into Nature's Chronicle. GlampHub's Grid Blog Experience." />
+                <Breadcrumb img='/images/breadcrumb/1920x320.png' heading='Blog Grid' subHeading="Dive Into Nature's Chronicle. CampSpots's Grid Blog Experience." />
                 <div className='blog-default lg:py-20 md:py-14 py-10'>
                     <div className="container">
                         <div className="">

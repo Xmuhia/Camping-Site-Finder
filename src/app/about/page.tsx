@@ -19,11 +19,11 @@ const About = () => {
     return (
         <>
             <HeaderOne />
-            <Breadcrumb img='/images/breadcrumb/1920x320.png' heading='About The GlampHub' subHeading='Unveiling the Heart of GlampHub. Where Nature and Luxury Coexist' />
+            <Breadcrumb img='/images/breadcrumb/1920x320.png' heading='About CampSpots' subHeading='Unveiling the Heart of CampSpots. Where Nature and Luxury Coexist' />
             <div className="video-greeting lg:pt-20 md:pt-14 pt-10">
                 <div className="container">
                     <div className="heading flex flex-col items-center justify-center">
-                        <div className="heading2 text-center">Welcome to the GlampHub</div>
+                        <div className="heading2 text-center">Welcome to CampSpots</div>
                         <div className="body2 text-variant1 text-center mt-4">Less than a 2.5 hour drive from downtown Boston and convenient to the trailheads, scenic views and swimming holes of the White Mountain National Forest, Huttopia White Mountains is an ideal place to escape to nature.</div>
                     </div>
                     <div className="video-block relative rounded-[20px] overflow-hidden md:mt-10 mt-6">

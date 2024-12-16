@@ -15,7 +15,7 @@ const Review = () => {
     return (
         <>
             <HeaderOne />
-            <Breadcrumb img='/images/breadcrumb/1920x320.png' heading='Our Testimonials' subHeading='Stories That Speak. Echoes of Experiences at GlampHub.' />
+            <Breadcrumb img='/images/breadcrumb/1920x320.png' heading='Our Testimonials' subHeading='Stories That Speak. Echoes of Experiences at CampSpots.' />
             <div className='review lg:py-20 md:py-14 py-10'>
                 <div className="container">
                     <div className="grid lg:grid-cols-3 md:grid-cols-2 lg:gap-[30px] gap-5">

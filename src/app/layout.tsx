@@ -7,7 +7,7 @@ const jost = Jost({ subsets: ['latin'] })
 const dmsans = DM_Sans({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'GlampHub',
+  title: 'CampSpots',
   description: 'Listing Glamping Template',
 }
 

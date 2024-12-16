@@ -74,7 +74,7 @@ const BlogDefault = () => {
     return (
         <>
             <HeaderOne />
-            <Breadcrumb img='/images/breadcrumb/1920x320.png' heading='Blog Default' subHeading="Dive Into Nature's Chronicle. GlampHub's Default Blog Experience." />
+            <Breadcrumb img='/images/breadcrumb/1920x320.png' heading='Blog Default' subHeading="Dive Into Nature's Chronicle. CampSpots's Default Blog Experience." />
             <div className='blog default lg:py-20 md:py-14 py-10'>
                 <div className="container">
                     <div className="flex justify-between max-lg:flex-col gap-y-12">

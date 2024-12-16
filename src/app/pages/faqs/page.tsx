@@ -19,7 +19,7 @@ const Faqs = () => {
     return (
         <>
             <HeaderOne />
-            <Breadcrumb img='/images/breadcrumb/1920x320.png' heading='Frequently Asked Questions' subHeading="Curious Minds, Clear Answers. Navigating GlampHub's FAQs." />
+            <Breadcrumb img='/images/breadcrumb/1920x320.png' heading='Frequently Asked Questions' subHeading="Curious Minds, Clear Answers. Navigating CampSpots' FAQs." />
             <div className='faqs lg:py-20 md:py-14 py-10'>
                 <div className="container">
                     <div className='main flex items-center justify-center'>

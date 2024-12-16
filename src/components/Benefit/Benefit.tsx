@@ -9,7 +9,7 @@ const Benefit = () => {
                 <div className="container">
                     <div className="content-main lg:flex items-center">
                         <div className="left lg:w-1/2 lg:pr-[45px]">
-                            <div className="heading3">Luxury GlampHub Camping</div>
+                            <div className="heading3">Luxury Camping</div>
                             <div className="body2 text-variant1 mt-3">Nature meets luxury in our furnished tents, which are outfitted with hardwood floors, a plush king or double queen beds</div>
                             <div className="list-benefit mt-5">
                                 <ul>

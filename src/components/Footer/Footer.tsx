@@ -72,7 +72,7 @@ const Footer = () => {
                                         <div className="text-title">001-1234-88888</div>
                                     </div>
                                 </div>
-                                <div className="caption1 mt-5">Book Glamping Hassle-Free with GlampHub and Boost Your Income.</div>
+                                <div className="caption1 mt-5">Book Glamping Hassle-Free with CampSpots and Boost Your Income.</div>
                                 <div className="location flex items-center gap-2 mt-3">
                                     <Icon.MapPin className='caption1' />
                                     <div className="caption1">101 E 129th St, East Chicago, IN 46312, US</div>
@@ -142,7 +142,7 @@ const Footer = () => {
                     <div className="footer-bottom py-4 border-t border-outline">
                         <div className="container">
                             <div className="flex items-center sm:justify-between justify-center flex-wrap gap-4">
-                                <div className="copyright caption1 text-variant1">©2023 GlampHub. All Rights Reserved.</div>
+                                <div className="copyright caption1 text-variant1">©2023 CampSpots. All Rights Reserved.</div>
                                 <div className="flex items-center gap-3">
                                     <Link href={'/term-of-use'} className='caption1 text-variant1 has-line'>Terms Of Services</Link>
                                     <div className='bg-outline w-px h-4'></div>
